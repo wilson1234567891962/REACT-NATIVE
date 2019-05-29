@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="3.3.1"
-    timestamp="1559102612931"
+    timestamp="1559103802054"
     token="-5859649380461413922"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,10 +22,6 @@
     <task
         name="verifier"
         duration="0" />
-
-    <artifact
-        location="C:\Users\Sem-6-INGENIERIAINDU\Desktop\project\REACT-NATIVE\music\android\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -79,5 +75,9 @@
             location="C:\Users\Sem-6-INGENIERIAINDU\Desktop\project\REACT-NATIVE\music\android\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1559103802054"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
