@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue May 28 23:03:59 COT 2019
+#Wed May 29 00:35:49 COT 2019
 5.base=C\:\\Users\\Sem-6-INGENIERIAINDU\\Desktop\\project\\REACT-NATIVE\\music\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 42.base=C\:\\Users\\Sem-6-INGENIERIAINDU\\Desktop\\project\\REACT-NATIVE\\music\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 22.path=lib/armeabi-v7a/libfolly_json.so
